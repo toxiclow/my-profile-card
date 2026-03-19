@@ -14,10 +14,6 @@ This is a simple profile card project built with HTML.
 
 This project is part of my coding learning journey.
 
-📸 Preview
-
-"preview" (https://via.placeholder.com/300x200)
-
 ---
 
 ⭐ Thanks for visiting!
